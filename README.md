@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niraj-thummar&label=Profile%20views&color=0e75b6&style=flat" alt="niraj-thummar" /> </p>
 
-- 🌱 I’m currently learning **java**
+- 🌱 I’m currently learning **java with DSA and JAVA SCRIPT**
 
 - 📫 How to reach me **nirajthummar98@gmail.com**
 
